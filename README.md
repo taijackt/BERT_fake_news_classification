@@ -5,7 +5,7 @@ A side project to practice fine-tuning BERT for sequence (related or unrelated) 
 The data is downloaded from kaggle: [Click me](https://www.kaggle.com/c/fake-news-pair-classification-challenge)
 - Download the data and put the csv files in `./data` folder.
 
-## Important Dependencies:
+## Major Dependencies:
 - transformers
 - pyyaml
 - torch
