@@ -16,7 +16,7 @@ The data is downloaded from kaggle: [Click me](https://www.kaggle.com/c/fake-new
 - `main.py` : Main pipeline of training.
 - `train.py`: Prediction function and train_for_one_epoch function.
 - `dataset.py`: The dataset class.
-- `preprocess.py`: Clear the data.
+- `preprocess.py`: For data cleaning and format featuring.
 
 ## Result on kaggle (trained with 5 epochs only): 
 ![result image](https://i.ibb.co/nmjMLTV/result.jpg)
